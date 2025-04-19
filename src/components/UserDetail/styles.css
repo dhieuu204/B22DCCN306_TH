@@ -1,0 +1,30 @@
+.user-detail-container {
+  background-color: #ffffff;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+  max-width: 600px;
+  margin: 24px auto;
+}
+
+.user-detail-container h5,
+.user-detail-container .MuiTypography-h5 {
+  font-weight: 600;
+  color: #2c3e50;
+  margin-bottom: 16px;
+}
+
+.user-detail-container .MuiTypography-body1 {
+  color: #34495e;
+  margin: 8px 0;
+}
+
+.user-detail-container a {
+  color: #1976d2;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.user-detail-container a:hover {
+  text-decoration: underline;
+}

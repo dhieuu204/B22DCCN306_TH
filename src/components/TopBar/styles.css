@@ -1,0 +1,22 @@
+.topbar-container {
+  background-color: #1976d2;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.topbar-container .MuiToolbar-root {
+  padding: 0 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topbar-title {
+  font-weight: 500;
+  color: white;
+}
+
+.topbar-view-title {
+  font-weight: 500;
+  color: white;
+  font-size: 1.1rem;
+}
